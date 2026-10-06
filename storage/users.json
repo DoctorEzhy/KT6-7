@@ -1,0 +1,12 @@
+[
+  {
+    "username": "alex",
+    "salt": "2f314222eda55b3471b17ec859172ba7",
+    "passwordHash": "b1848c22c86d3d247ab6d9552670255dde6141979bdf4cc5a1b3af43f9bf8c84"
+  },
+  {
+    "username": "bob",
+    "salt": "47c43e896a273b2fab7cc01a58fd4dc0",
+    "passwordHash": "c10b7c81a464dcf14f0f59876625c86c87ccc7d1e3a9f9f8d8c4947a158d4ce6"
+  }
+]

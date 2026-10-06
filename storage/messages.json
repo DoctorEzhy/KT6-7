@@ -1,0 +1,80 @@
+[
+  {
+    "id": 2,
+    "author": "bob",
+    "text": "Привет, мир!",
+    "createdAt": "2026-10-02T18:45:17"
+  },
+  {
+    "id": 3,
+    "author": "alex",
+    "text": "Hello world",
+    "createdAt": "2026-10-02T18:46:54"
+  },
+  {
+    "id": 4,
+    "author": "bob",
+    "text": "Привет, мир!",
+    "createdAt": "2026-10-02T18:46:54"
+  },
+  {
+    "id": 5,
+    "author": "alex",
+    "text": "Hello world",
+    "createdAt": "2026-10-02T18:46:57"
+  },
+  {
+    "id": 6,
+    "author": "bob",
+    "text": "Привет, мир!",
+    "createdAt": "2026-10-02T18:46:57"
+  },
+  {
+    "id": 7,
+    "author": "alex",
+    "text": "Hello world",
+    "createdAt": "2026-10-02T18:47:39"
+  },
+  {
+    "id": 8,
+    "author": "bob",
+    "text": "Привет, мир!",
+    "createdAt": "2026-10-02T18:47:39"
+  },
+  {
+    "id": 9,
+    "author": "alex",
+    "text": "Hello world",
+    "createdAt": "2026-10-02T18:47:41"
+  },
+  {
+    "id": 10,
+    "author": "bob",
+    "text": "Привет, мир!",
+    "createdAt": "2026-10-02T18:47:41"
+  },
+  {
+    "id": 11,
+    "author": "alex",
+    "text": "Hello world",
+    "createdAt": "2026-10-02T18:47:42"
+  },
+  {
+    "id": 12,
+    "author": "bob",
+    "text": "Привет, мир!",
+    "createdAt": "2026-10-02T18:47:42"
+  },
+  {
+    "id": 13,
+    "author": "alex",
+    "text": "Hello world",
+    "createdAt": "2026-10-02T18:47:45"
+  },
+  {
+    "id": 14,
+    "author": "bob",
+    "text": "Привет, мир!",
+    "createdAt": "2026-10-02T18:47:45"
+  }
+]
